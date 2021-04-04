@@ -1,0 +1,3 @@
+include ':BaseFrame'
+include ':app'
+rootProject.name = "AndroidBaseFrame"
